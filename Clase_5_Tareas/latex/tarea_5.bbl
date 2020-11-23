@@ -1,0 +1,56 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{url:basilea}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f51f5f5f29605c84f7b0f495e633a7a2}{%
+           family={Barrera},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima Reyes},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{fullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{bibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorbibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authornamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorfullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Problema 9}
+      \field{urlday}{16}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_4_Tareas/basilea.cpp
+      \endverb
+      \verb{url}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_4_Tareas/basilea.cpp
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
