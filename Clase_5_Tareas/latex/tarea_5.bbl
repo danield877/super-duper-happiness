@@ -19,7 +19,7 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
-    \entry{url:basilea}{online}{}
+    \entry{url:calcular_area}{online}{}
       \name{author}{1}{}{%
         {{hash=f51f5f5f29605c84f7b0f495e633a7a2}{%
            family={Barrera},
@@ -33,21 +33,164 @@
       \strng{authorbibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
       \strng{authornamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
       \strng{authorfullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Problema 9}
-      \field{urlday}{16}
+      \field{title}{Problema 1-Algoritmo}
+      \field{urlday}{24}
       \field{urlmonth}{11}
       \field{urlyear}{2020}
       \field{year}{2020}
       \field{urldateera}{ce}
       \verb{urlraw}
-      \verb https://github.com/danield877/cpp2020/blob/master/Clase_4_Tareas/basilea.cpp
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/calcular_area.cpp
       \endverb
       \verb{url}
-      \verb https://github.com/danield877/cpp2020/blob/master/Clase_4_Tareas/basilea.cpp
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/calcular_area.cpp
+      \endverb
+    \endentry
+    \entry{url:MCD}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f51f5f5f29605c84f7b0f495e633a7a2}{%
+           family={Barrera},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima Reyes},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{fullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{bibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorbibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authornamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorfullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Problema 2-Algoritmo}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/MCD.cpp
+      \endverb
+      \verb{url}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/MCD.cpp
+      \endverb
+    \endentry
+    \entry{url:palindromo}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f51f5f5f29605c84f7b0f495e633a7a2}{%
+           family={Barrera},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima Reyes},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{fullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{bibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorbibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authornamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorfullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \field{extraname}{3}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Problema 3-Algoritmo}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/palindromo.cpp
+      \endverb
+      \verb{url}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/palindromo.cpp
+      \endverb
+    \endentry
+    \entry{url:schrage}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f51f5f5f29605c84f7b0f495e633a7a2}{%
+           family={Barrera},
+           familyi={B\bibinitperiod},
+           given={Daniel\bibnamedelima Reyes},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{fullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{bibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorbibnamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authornamehash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \strng{authorfullhash}{f51f5f5f29605c84f7b0f495e633a7a2}
+      \field{extraname}{4}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Problema 4-Algoritmo}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/schrage.cpp
+      \endverb
+      \verb{url}
+      \verb https://github.com/danield877/cpp2020/blob/master/Clase_5_Tareas/schrage.cpp
+      \endverb
+    \endentry
+    \entry{url:rage}{online}{}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labeltitlesource}{title}
+      \field{title}{Generador de numeros aleatorios}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://catarina.udlap.mx/u_dl_a/tales/documentos/lfa/blanca_r_a/apendiceD.pdf
+      \endverb
+      \verb{url}
+      \verb http://catarina.udlap.mx/u_dl_a/tales/documentos/lfa/blanca_r_a/apendiceD.pdf
+      \endverb
+    \endentry
+    \entry{url:euclides}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8424af74cf45f270b9e9c9efc90b1311}{%
+           family={wikipedia.org},
+           familyi={w\bibinitperiod}}}%
+      }
+      \strng{namehash}{8424af74cf45f270b9e9c9efc90b1311}
+      \strng{fullhash}{8424af74cf45f270b9e9c9efc90b1311}
+      \strng{bibnamehash}{8424af74cf45f270b9e9c9efc90b1311}
+      \strng{authorbibnamehash}{8424af74cf45f270b9e9c9efc90b1311}
+      \strng{authornamehash}{8424af74cf45f270b9e9c9efc90b1311}
+      \strng{authorfullhash}{8424af74cf45f270b9e9c9efc90b1311}
+      \field{sortinit}{w}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Algoritmo de Euclides}
+      \field{urlday}{24}
+      \field{urlmonth}{11}
+      \field{urlyear}{2020}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://es.wikipedia.org/wiki/Algoritmo_de_Euclides#:~:text=El%20algoritmo%20de%20Euclides%20es,divisor%20como%20una%20combinaci%C3%B3n%20lineal.
+      \endverb
+      \verb{url}
+      \verb https://es.wikipedia.org/wiki/Algoritmo_de_Euclides#:~:text=El%20algoritmo%20de%20Euclides%20es,divisor%20como%20una%20combinaci%C3%B3n%20lineal.
       \endverb
     \endentry
   \enddatalist

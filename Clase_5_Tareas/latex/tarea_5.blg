@@ -1,16 +1,16 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'tarea_5.blg'
-[138] biber-MSWIN64:322> INFO - === 
+[135] biber-MSWIN64:322> INFO - === 
 [173] Biber.pm:415> INFO - Reading 'tarea_5.bcf'
-[391] Biber.pm:943> INFO - Found 1 citekeys in bib section 0
-[426] Biber.pm:4256> INFO - Processing section 0
-[426] Utils.pm:75> INFO - Globbing data source 'tarea_5.bib'
-[445] Utils.pm:91> INFO - Globbed data source 'tarea_5.bib' to tarea_5.bib
-[475] Biber.pm:4455> INFO - Looking for bibtex format file 'tarea_5.bib' for section 0
-[480] bibtex.pm:1653> INFO - LaTeX decoding ...
-[491] bibtex.pm:1471> INFO - Found BibTeX data source 'tarea_5.bib'
-[562] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[562] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[562] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
-[574] bbl.pm:652> INFO - Writing 'tarea_5.bbl' with encoding 'UTF-8'
-[575] bbl.pm:755> INFO - Output to tarea_5.bbl
+[405] Biber.pm:943> INFO - Found 6 citekeys in bib section 0
+[439] Biber.pm:4256> INFO - Processing section 0
+[440] Utils.pm:75> INFO - Globbing data source 'tarea_5.bib'
+[457] Utils.pm:91> INFO - Globbed data source 'tarea_5.bib' to tarea_5.bib
+[490] Biber.pm:4455> INFO - Looking for bibtex format file 'tarea_5.bib' for section 0
+[496] bibtex.pm:1653> INFO - LaTeX decoding ...
+[530] bibtex.pm:1471> INFO - Found BibTeX data source 'tarea_5.bib'
+[628] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[628] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[628] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[648] bbl.pm:652> INFO - Writing 'tarea_5.bbl' with encoding 'UTF-8'
+[652] bbl.pm:755> INFO - Output to tarea_5.bbl

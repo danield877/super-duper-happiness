@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.9)  8 DEC 2020 16:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.9)  26 NOV 2020 21:48
 entering extended mode
-**./tarea_5.tex
-(tarea_5.tex
+**./tarea_4.tex
+(tarea_4.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18>
 (C:\Users\vicen\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -691,11 +691,11 @@ mode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count422
 \l__pdf_internal_box=\box52
-) (tarea_5.aux
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+) (tarea_4.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 )
-\openout1 = `tarea_5.aux'.
+\openout1 = `tarea_4.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -750,9 +750,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
- (tarea_5.out) (tarea_5.out)
+ (tarea_4.out) (tarea_4.out)
 \@outlinefile=\write4
-\openout4 = `tarea_5.out'.
+\openout4 = `tarea_4.out'.
 
 \c@lstlisting=\count430
 Package biblatex Info: Trying to load language 'spanish'...
@@ -765,11 +765,11 @@ File: spanish.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `tarea_5.bcf'.
+\openout3 = `tarea_4.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'tarea_5.bbl' found.
- (tarea_5.bbl)
+Package biblatex Info: ... file 'tarea_4.bbl' found.
+ (tarea_4.bbl)
 Package biblatex Info: Reference section=0 on input line 15.
 Package biblatex Info: Reference segment=0 on input line 15.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
@@ -784,11 +784,11 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
 (C:\Users\vicen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/captura.png, id=71, 705.38531pt x 405.01312pt>
-File: figures/captura.png Graphic file (type png)
-<use figures/captura.png>
-Package pdftex.def Info: figures/captura.png  used on input line 27.
-(pdftex.def)             Requested size: 234.00238pt x 134.35925pt.
+<figures/bisiesto.png, id=217, 776.9025pt x 348.30125pt>
+File: figures/bisiesto.png Graphic file (type png)
+<use figures/bisiesto.png>
+Package pdftex.def Info: figures/bisiesto.png  used on input line 41.
+(pdftex.def)             Requested size: 312.00119pt x 139.87607pt.
 
 [1
 
@@ -799,137 +799,153 @@ Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
 Non-PDF special ignored!
 <special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
-{C:/Users/vicen/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./figures/captu
-ra.png>]
-<figures/calcular_area.png, id=86, 752.8125pt x 655.44875pt>
-File: figures/calcular_area.png Graphic file (type png)
-<use figures/calcular_area.png>
-Package pdftex.def Info: figures/calcular_area.png  used on input line 48.
-(pdftex.def)             Requested size: 312.00119pt x 271.65611pt.
- [2] [3 <./figures/calcular_area.png>]
-<figures/MCD.png, id=102, 752.8125pt x 331.2375pt>
-File: figures/MCD.png Graphic file (type png)
-<use figures/MCD.png>
-Package pdftex.def Info: figures/MCD.png  used on input line 76.
-(pdftex.def)             Requested size: 312.00119pt x 137.28409pt.
- [4 <./figures/MCD.png>]
-<figures/palindromo.png, id=114, 752.8125pt x 331.2375pt>
-File: figures/palindromo.png Graphic file (type png)
-<use figures/palindromo.png>
-Package pdftex.def Info: figures/palindromo.png  used on input line 105.
-(pdftex.def)             Requested size: 312.00119pt x 137.28409pt.
- [5 <./figures/palindromo.png>]
-<figures/schrage.png, id=125, 752.8125pt x 501.875pt>
-File: figures/schrage.png Graphic file (type png)
-<use figures/schrage.png>
-Package pdftex.def Info: figures/schrage.png  used on input line 138.
-(pdftex.def)             Requested size: 312.00119pt x 208.00621pt.
+{C:/Users/vicen/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+<figures/raices_de_polinomio.png, id=233, 792.9625pt x 416.55624pt>
+File: figures/raices_de_polinomio.png Graphic file (type png)
+<use figures/raices_de_polinomio.png>
+Package pdftex.def Info: figures/raices_de_polinomio.png  used on input line 67
+.
+(pdftex.def)             Requested size: 312.00119pt x 163.89911pt.
+ [2 <./figures/bisiesto.png>] [3 <./figures/raices_de_polinomio.png>]
+<figures/calcular_operacion.png, id=255, 792.9625pt x 348.30125pt>
+File: figures/calcular_operacion.png Graphic file (type png)
+<use figures/calcular_operacion.png>
+Package pdftex.def Info: figures/calcular_operacion.png  used on input line 93.
+
+(pdftex.def)             Requested size: 312.00119pt x 137.04337pt.
+ [4 <./figures/calcular_operacion.png>]
+<figures/vocal_consonante.png, id=265, 784.9325pt x 331.2375pt>
+File: figures/vocal_consonante.png Graphic file (type png)
+<use figures/vocal_consonante.png>
+Package pdftex.def Info: figures/vocal_consonante.png  used on input line 120.
+(pdftex.def)             Requested size: 312.00119pt x 131.66374pt.
+ [5 <./figures/vocal_consonante.png>]
+<figures/rock_piper.png, id=275, 720.6925pt x 467.7475pt>
+File: figures/rock_piper.png Graphic file (type png)
+<use figures/rock_piper.png>
+Package pdftex.def Info: figures/rock_piper.png  used on input line 148.
+(pdftex.def)             Requested size: 312.00119pt x 202.4907pt.
  [6]
-Overfull \hbox (16.46257pt too wide) in paragraph at lines 151--151
-[]\OT1/cmr/m/n/12 Daniel Re-yes Ba-rre-ra. \OT1/cmr/m/it/12 Pro-ble-ma 1-Algori
-tmo\OT1/cmr/m/n/12 . 2020. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m
-/n/12 https :
+Overfull \hbox (8.52174pt too wide) detected at line 157
+\OML/cmm/m/it/10.95 s \OT1/cmr/m/n/10.95 = [] [][] = 1 + [][] + [][] + [][] + [
+][] + [][] + \OML/cmm/m/it/10.95 ::: \OT1/cmr/m/n/10.95 + [][]
+ []
+
+<figures/serie_geometrica.png, id=284, 768.8725pt x 280.04625pt>
+File: figures/serie_geometrica.png Graphic file (type png)
+<use figures/serie_geometrica.png>
+Package pdftex.def Info: figures/serie_geometrica.png  used on input line 176.
+(pdftex.def)             Requested size: 312.00119pt x 113.6403pt.
+[7 <./figures/rock_piper.png>] [8 <./figures/serie_geometrica.png>]
+<figures/fibonnaci.png, id=301, 752.8125pt x 382.42876pt>
+File: figures/fibonnaci.png Graphic file (type png)
+<use figures/fibonnaci.png>
+Package pdftex.def Info: figures/fibonnaci.png  used on input line 206.
+(pdftex.def)             Requested size: 312.00119pt x 158.50073pt.
+ [9 <./figures/fibonnaci.png>]
+<figures/gottfried_leibniz.png, id=311, 792.9625pt x 331.2375pt>
+File: figures/gottfried_leibniz.png Graphic file (type png)
+<use figures/gottfried_leibniz.png>
+Package pdftex.def Info: figures/gottfried_leibniz.png  used on input line 236.
+
+(pdftex.def)             Requested size: 312.00119pt x 130.32942pt.
+ [10 <./figures/gottfried_leibniz.png>]
+<figures/basilea.png, id=322, 776.9025pt x 348.30125pt>
+File: figures/basilea.png Graphic file (type png)
+<use figures/basilea.png>
+Package pdftex.def Info: figures/basilea.png  used on input line 267.
+(pdftex.def)             Requested size: 312.00119pt x 139.87607pt.
+ [11 <./figures/basilea.png>]
+<figures/ULAM.png, id=332, 784.9325pt x 757.83125pt>
+File: figures/ULAM.png Graphic file (type png)
+<use figures/ULAM.png>
+Package pdftex.def Info: figures/ULAM.png  used on input line 301.
+(pdftex.def)             Requested size: 312.00119pt x 301.23071pt.
+ [12] [13 <./figures/ULAM.png>]
+<figures/triple_de_pitagoras.png, id=347, 1330.9725pt x 770.88pt>
+File: figures/triple_de_pitagoras.png Graphic file (type png)
+<use figures/triple_de_pitagoras.png>
+Package pdftex.def Info: figures/triple_de_pitagoras.png  used on input line 33
+1.
+(pdftex.def)             Requested size: 312.00119pt x 180.69807pt.
+ [14 <./figures/triple_de_pitagoras.png>]
+<figures/primo.png, id=358, 776.9025pt x 297.11pt>
+File: figures/primo.png Graphic file (type png)
+<use figures/primo.png>
+Package pdftex.def Info: figures/primo.png  used on input line 358.
+(pdftex.def)             Requested size: 312.00119pt x 119.3179pt.
+
+Overfull \hbox (7.38838pt too wide) in paragraph at lines 355--362
+\OT1/cmr/m/n/10.95 cias del pro-ble-ma. En-tra-da: $\OML/cmm/m/it/10.95 n \OT1/
+cmr/m/n/10.95 = 21$, $\OML/cmm/m/it/10.95 n \OT1/cmr/m/n/10.95 = 41$, $\OML/cmm
+/m/it/10.95 n \OT1/cmr/m/n/10.95 = 11$ y $\OML/cmm/m/it/10.95 n \OT1/cmr/m/n/10
+.95 = 423412423323$.
+ []
+
+[15 <./figures/primo.png>]
+<figures/ordenar_numeros.png, id=368, 776.9025pt x 655.44875pt>
+File: figures/ordenar_numeros.png Graphic file (type png)
+<use figures/ordenar_numeros.png>
+Package pdftex.def Info: figures/ordenar_numeros.png  used on input line 385.
+(pdftex.def)             Requested size: 312.00119pt x 263.22499pt.
+ [16] [17 <./figures/ordenar_numeros.png>]
+Overfull \hbox (9.04523pt too wide) in paragraph at lines 398--398
+\OT1/cmtt/m/n/12 4 _ Tareas / raices _ de _ polinomio . cpp$[] \OT1/cmr/m/n/12 
+(vi-si-ta-do 16[]11[]2020). 
  []
 
 
-Overfull \hbox (1.65207pt too wide) in paragraph at lines 151--151
-\OT1/cmtt/m/n/12 / / github . com / danield877 / cpp2020 / blob / master / Clas
-e _
+Overfull \hbox (2.87022pt too wide) in paragraph at lines 398--398
+\OT1/cmtt/m/n/12 4 _ Tareas / calcular _ operacion . cpp$[] \OT1/cmr/m/n/12 (vi
+-si-ta-do 16[]11[]2020). 
  []
 
-
-Overfull \hbox (16.46257pt too wide) in paragraph at lines 151--151
-[]\OT1/cmr/m/n/12 Daniel Re-yes Ba-rre-ra. \OT1/cmr/m/it/12 Pro-ble-ma 2-Algori
-tmo\OT1/cmr/m/n/12 . 2020. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m
-/n/12 https :
- []
-
-
-Overfull \hbox (1.65207pt too wide) in paragraph at lines 151--151
-\OT1/cmtt/m/n/12 / / github . com / danield877 / cpp2020 / blob / master / Clas
-e _
- []
-
-
-Overfull \hbox (16.46257pt too wide) in paragraph at lines 151--151
-[]\OT1/cmr/m/n/12 Daniel Re-yes Ba-rre-ra. \OT1/cmr/m/it/12 Pro-ble-ma 3-Algori
-tmo\OT1/cmr/m/n/12 . 2020. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m
-/n/12 https :
- []
-
-
-Overfull \hbox (1.65207pt too wide) in paragraph at lines 151--151
-\OT1/cmtt/m/n/12 / / github . com / danield877 / cpp2020 / blob / master / Clas
-e _
- []
-
-[7 <./figures/schrage.png>]
-Overfull \hbox (16.46257pt too wide) in paragraph at lines 151--151
-[]\OT1/cmr/m/n/12 Daniel Re-yes Ba-rre-ra. \OT1/cmr/m/it/12 Pro-ble-ma 4-Algori
-tmo\OT1/cmr/m/n/12 . 2020. \OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m
-/n/12 https :
- []
-
-
-Overfull \hbox (1.65207pt too wide) in paragraph at lines 151--151
-\OT1/cmtt/m/n/12 / / github . com / danield877 / cpp2020 / blob / master / Clas
-e _
- []
-
-
-Overfull \hbox (19.87733pt too wide) in paragraph at lines 151--151
-[]\OT1/cmr/m/it/12 Generador de nu-me-ros alea-to-rios\OT1/cmr/m/n/12 . 2020. \
-OT1/cmr/m/sc/12 url\OT1/cmr/m/n/12 : []$\OT1/cmtt/m/n/12 http : / / catarina .
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 153.
-[8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 153.
- (tarea_5.aux
-LaTeX Info: Redefining \. on input line 29.
-LaTeX Info: Redefining \% on input line 29.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 399.
+[18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 399.
+ (tarea_4.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 153.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 153.
-Package rerunfilecheck Info: File `tarea_5.out' has not changed.
-(rerunfilecheck)             Checksum: 2C7DC4234ADF0B6E88B6F17FB8E4DC7E;1056.
-Package logreq Info: Writing requests to 'tarea_5.run.xml'.
-\openout1 = `tarea_5.run.xml'.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 399.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 399.
+Package rerunfilecheck Info: File `tarea_4.out' has not changed.
+(rerunfilecheck)             Checksum: F9B081AF2BD653FB5BE2E41B8D37E4B6;3375.
+Package logreq Info: Writing requests to 'tarea_4.run.xml'.
+\openout1 = `tarea_4.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 153.
- )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 18 ({)
-### bottom level 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 399.
+ ) 
 Here is how much of TeX's memory you used:
- 22478 strings out of 480790
- 395154 string characters out of 2897302
- 1048976 words of memory out of 3000000
- 38154 multiletter control sequences out of 15000+200000
+ 22680 strings out of 480790
+ 399485 string characters out of 2897302
+ 1053148 words of memory out of 3000000
+ 38286 multiletter control sequences out of 15000+200000
  543635 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,7n,55p,942b,1916s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/vicen/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vicen/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vicen/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users
-/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-12.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmr17.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmr8.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vicen/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/vicen/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/vicen/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tarea_5.pdf (8 pages, 516498 bytes).
+ 46i,7n,55p,942b,1833s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmcsc10.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vicen/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vicen/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vicen/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/vicen
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb
+><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mr6.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr8.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmsy10.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vicen/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/vicen/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/vicen/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/vicen/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on tarea_4.pdf (18 pages, 1269813 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 503 PDF objects out of 1000 (max. 8388607)
+ 99 named destinations out of 1000 (max. 500000)
+ 490 words of extra memory for PDF output out of 10000 (max. 10000000)
 

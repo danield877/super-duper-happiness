@@ -2182,12 +2182,8 @@
     <bcf:datasource type="file" datatype="bibtex">tarea_5.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">url:calcular_area</bcf:citekey>
-    <bcf:citekey order="2">url:euclides</bcf:citekey>
-    <bcf:citekey order="3">url:MCD</bcf:citekey>
-    <bcf:citekey order="4">url:palindromo</bcf:citekey>
-    <bcf:citekey order="5">url:rage</bcf:citekey>
-    <bcf:citekey order="6">url:schrage</bcf:citekey>
+    <bcf:citekey order="1">url:rage</bcf:citekey>
+    <bcf:citekey order="2">url:schrage</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

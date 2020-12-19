@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'tarea_4.blg'
+[201] biber-MSWIN64:322> INFO - === 
+[242] Biber.pm:415> INFO - Reading 'tarea_4.bcf'
+[502] Biber.pm:943> INFO - Found 13 citekeys in bib section 0
+[546] Biber.pm:4256> INFO - Processing section 0
+[547] Utils.pm:75> INFO - Globbing data source 'tarea_4.bib'
+[595] Utils.pm:91> INFO - Globbed data source 'tarea_4.bib' to tarea_4.bib
+[626] Biber.pm:4455> INFO - Looking for bibtex format file 'tarea_4.bib' for section 0
+[642] bibtex.pm:1653> INFO - LaTeX decoding ...
+[682] bibtex.pm:1471> INFO - Found BibTeX data source 'tarea_4.bib'
+[878] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[878] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[878] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'es-ES'
+[912] bbl.pm:652> INFO - Writing 'tarea_4.bbl' with encoding 'UTF-8'
+[924] bbl.pm:755> INFO - Output to tarea_4.bbl
