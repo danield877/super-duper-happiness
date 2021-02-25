@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProyecto.a CMakeFiles/Proyecto.dir/Datos.cpp.o CMakeFiles/Proyecto.dir/DFT_1d.cpp.o CMakeFiles/Proyecto.dir/FFT_1d.cpp.o
+/usr/bin/ranlib libProyecto.a

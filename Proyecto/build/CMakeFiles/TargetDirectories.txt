@@ -1,0 +1,11 @@
+/home/daniel/Escritorio/Proyecto/build/CMakeFiles/rebuild_cache.dir
+/home/daniel/Escritorio/Proyecto/build/CMakeFiles/edit_cache.dir
+/home/daniel/Escritorio/Proyecto/build/apps/CMakeFiles/rebuild_cache.dir
+/home/daniel/Escritorio/Proyecto/build/apps/CMakeFiles/edit_cache.dir
+/home/daniel/Escritorio/Proyecto/build/apps/CMakeFiles/DFT.dir
+/home/daniel/Escritorio/Proyecto/build/apps/CMakeFiles/FFT.dir
+/home/daniel/Escritorio/Proyecto/build/lib/CMakeFiles/rebuild_cache.dir
+/home/daniel/Escritorio/Proyecto/build/lib/CMakeFiles/edit_cache.dir
+/home/daniel/Escritorio/Proyecto/build/lib/bin/CMakeFiles/rebuild_cache.dir
+/home/daniel/Escritorio/Proyecto/build/lib/bin/CMakeFiles/Proyecto.dir
+/home/daniel/Escritorio/Proyecto/build/lib/bin/CMakeFiles/edit_cache.dir

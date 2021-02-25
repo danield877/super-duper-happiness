@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/Escritorio/Proyecto/src/apps/DFT.cpp
+iostream
+-
+Complex.hpp
+-
+Datos.hpp
+-
+DFT_1d.hpp
+-
+cmath
+-
+time.h
+-
+fstream
+-
+
+/home/daniel/Escritorio/Proyecto/src/lib/include/Complex.hpp
+
+/home/daniel/Escritorio/Proyecto/src/lib/include/DFT_1d.hpp
+Complex.hpp
+-
+
+/home/daniel/Escritorio/Proyecto/src/lib/include/Datos.hpp
+Complex.hpp
+-
+
